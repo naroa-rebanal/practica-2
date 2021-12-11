@@ -4,13 +4,13 @@
 
 El ejercicio se compone de las siguientes páginas.
 
--*login.html* | Primera página donde el usuario hace inicio de sesion.
+-**login.html** | Primera página donde el usuario hace inicio de sesion.
 
--*main-page.html* | Página de inicio principal de la web
+-**main-page.html** | Página de inicio principal de la web
 
--*detail.page.html* | Página de detalle de un contenido
+-**detail.page.html** | Página de detalle de un contenido
 
--*error.page.html* | Página de error
+-**error.page.html** | Página de error
 
 
 
