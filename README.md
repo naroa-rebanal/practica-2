@@ -47,8 +47,10 @@ Esta página es donde esta el contenido en detalle. Como ejemplo se ha utilizado
 En ella podemos observar información general, un video, un seelector de temporada y las miniaturass de los capítulos de la temporada seleccionada.
 En este caso el contenido tiene el icono d eun ojo tachado (si no se ha visto el contenido) o de un ojo solido si el contenido ya ha sido visualizado.
 
-En las miniaturas de los capitulos, una vez sobre cada miniatura nos sale un icono de play. En una version funcional ese icono activaría la reproducción del contenido.
+En las miniaturas de los capitulos, una vez sobre cada miniatura nos sale un icono de play. En una versión funcional ese icono activaría la reproducción del contenido.
 
 ## Página de Error
 Página estandar que se muestra cuando el usuario hace una busqueda erronea y que no corresponde a las páginas de nuestra web.
 
+## Responsive
+El responsive está hecho de desktop a mobile, haciendo diferentes puntos de rotura cuando el diseño lo exigía.
